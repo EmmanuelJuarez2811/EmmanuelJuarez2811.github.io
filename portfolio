@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Luis Juarez | Portfolio</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Hello, I'm Luis Juarez</h1>
+<p>Software Engineer | Problem Solver | Tech Enthusiast | Programming Technician</p>
+</header>
+ 
+  <section id="projects">
+<h2>Projects</h2>
+<div class="project">
+<h3>Geospatial Water Consumption (EL PASO)</h3>
+<p>Developed an interactive web application utilizing an HTML5, CSS3, and JavaScript (Vanilla JS) stack to map
+residential water consumption by zip code in El Paso.</p>
+<a href=" ">View on GitHub</a>
+</div>
+</section>
+ 
+  <section id="contact">
+<h2>Contact</h2>
+<a href="mailto:lejuarezcorral@miners.utep.edu</a>
+</section>
+</body>
+</html>
